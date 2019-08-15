@@ -7,8 +7,7 @@ sections:
     image: images/hero.png
     title: This Is A Big Hero Headline
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Hey Dana check it out, I just deployed this site in about 1 minute on github.
     actions:
       - label: Learn More
         url: /features
@@ -18,15 +17,12 @@ sections:
     bg: gray
     title: Features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Seriously it took 2 seconds
     featureslist:
-      - title: The Best Feature of Your Services
+      - title: DOOT DOOT
         image: images/feature1.png
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          Doot Doot
         actions:
           - label: Learn More
             url: /features
