@@ -5,7 +5,7 @@ sections:
     component: hero_block.html
     type: heroblock
     image: images/hero.png
-    title: This Is A Big Hero Headline
+    title: I built this site in minutes.
     content: >-
       Hey Dana check it out, I just deployed this site in about 1 minute on github.
     actions:
